@@ -42,7 +42,7 @@
 
 ### Вариант 1: Из официальных магазинов (рекомендуется)
 *   **🦊 Opera Add-ons:** [Добавить расширение]() (ссылка появится после публикации)
-*   **🌐 Chrome Web Store:** [Установить из магазина]() (ссылка появится после публикации)
+*   **🌐 Chrome Web Store:** [Установить из магазина](https://chromewebstore.google.com/detail/hdrezka-ratings-+-downloa/goaaikknplhcblailhpddpiogcmgphij)
 *   **🧭 Microsoft Edge Add-ons:** [Скачать для Edge]() (ссылка появится после публикации)
 
 ### Вариант 2: Ручная установка (режим разработчика)
