@@ -1,9 +1,9 @@
 # HDrezka Ratings + Downloader
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Version](https://img.shields.io/badge/version-1.7.0-blue)
+![Version](https://img.shields.io/badge/version-1.7.1-blue)
 [![Opera](https://img.shields.io/badge/Opera-Store-ff1b2d?logo=opera)](https://addons.opera.com/) <!-- Ссылку потом вставишь -->
-[![Chrome](https://img.shields.io/badge/Chrome-Web%20Store-4285F4?logo=googlechrome)](https://chrome.google.com/webstore) <!-- Ссылку потом вставишь -->
+[![Chrome](https://img.shields.io/badge/Chrome-Web%20Store-4285F4?logo=googlechrome)](https://chromewebstore.google.com/detail/hdrezka-ratings-+-downloa/goaaikknplhcblailhpddpiogcmgphij)
 
 > **Мощное расширение для браузера**, которое превращает HDrezka в полноценную базу с рейтингами (Кинопоиск, IMDb) и дает удобный инструмент для скачивания видео и субтитров. Всё это — в чистом, минималистичном интерфейсе, который не режет глаз.
 
@@ -76,7 +76,7 @@
 ## 💬 Обратная связь
 
 Нашли баг? Есть идея, как сделать расширение лучше? Смело пишите:
-*   **GitHub Issues:** [Создать новый issue](ссылка-на-issues)
+*   **GitHub Issues:** [Создать новый issue](https://github.com/oOpsBY/HDrezka/issues)
 *   **Email:** [send2icq@gmail.com](mailto:send2icq@gmail.com)
 
 ## 🧑‍💻 Для разработчиков (Contributing)
